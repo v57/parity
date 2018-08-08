@@ -1,0 +1,10 @@
+{
+  "nodes": [
+    {
+      "url": "enode://8117741af005912a1daeac74bcf994751df9f7e15ddfc9c3baa886b33b3534db354af7936fefb881971473d12a5770e81a638079ed8d6e45c89b49f6ab42e956@192.168.1.183:30301",
+      "last_contact": {
+        "failure": 1533729447
+      }
+    }
+  ]
+}
